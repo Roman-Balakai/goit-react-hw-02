@@ -1,0 +1,12 @@
+.btnBox {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.btn {
+  background-color: grey;
+  color: black;
+}
+.btn:hover {
+  background-color: lightgrey;
+}
